@@ -2,10 +2,7 @@
 ![Alt text](https://monosnap.com/image/irShMiVk2rWjAHKLU2y93AsgGoiDUi)
 ![Alt text](https://monosnap.com/image/vCgVYVyax2EO139QWbs3dapyySAIHC)
 
-# Tools
-* create-react-app cli
-* react-bootstrap
-* react-redux
+
 # Start App
 
 Install CRA globally, Clone repo, install, cd into folder and run:
